@@ -20,3 +20,25 @@ review:
 fYkix6h7XRXRi5b3NcExE31wLH7xBUVG8F7nADPwmKbOJL0iLU5XS6PZhrHrNMoMxdlBNjOd4IKwiC7Ko6zuBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-02-11T07:54:20.222343-05:00"
+from:
+  id-type: crev
+  id: q206Wx_FKdkYkMmbjkXOds44SGsefiLpvOeHQNkkTVw
+  url: "https://github.com/chills42/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: same-file
+  version: 1.0.6
+  revision: 5799cd323b8eefd17a089c950dac113f66c89c9e
+  digest: Yf7qyYw3W3WoHK4t74epRoJkZehfhWh-Hh-R0LfB8UQ
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+g8eywcZ-JLs8BLaC7U4LZ8MuxHqyT7Gwk0x_Dwoxbj11_BBmCVqDELU2odQQ_ljKxh6o0teIso09xm3oeJX2Bg
+----- END CREV PROOF -----
+
