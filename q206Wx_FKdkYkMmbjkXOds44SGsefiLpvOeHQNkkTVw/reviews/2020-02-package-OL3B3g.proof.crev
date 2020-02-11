@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-02-11T07:21:36.078235-05:00"
+from:
+  id-type: crev
+  id: q206Wx_FKdkYkMmbjkXOds44SGsefiLpvOeHQNkkTVw
+  url: "https://github.com/chills42/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: walkdir
+  version: 2.3.1
+  revision: 00df609016d7e75b3730fcf0cef25fc0efe14204
+  digest: OlUZd3iifFFogpV2qMSHSq1GbQPZoGnrBNHS08HVHX0
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+fYkix6h7XRXRi5b3NcExE31wLH7xBUVG8F7nADPwmKbOJL0iLU5XS6PZhrHrNMoMxdlBNjOd4IKwiC7Ko6zuBQ
+----- END CREV PROOF -----
+
